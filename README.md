@@ -17,3 +17,10 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,python,bash,linux,aws,postgres,mongodb,postman,terraform,pytorch,md,r,lua,docker&perline=7" alt="Skills" />
 </p>
+
+## Highlights
+<p align="center">
+  <img src="./6.gif" width="32%" alt="Highlight gif 6" />
+  <img src="./5.gif" width="32%" alt="Highlight gif 5" />
+  <img src="./3.gif" width="32%" alt="Highlight gif 3" />
+</p>
