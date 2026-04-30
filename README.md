@@ -10,10 +10,9 @@
 ## About
 I build automation-first data solutions that improve trust, accuracy, and decision speed.
 
-- Senior Data Specialist at **Moody's** (Feb 2026 - Present)
-- Industrial Engineer, currently pursuing **Computer Engineering**
-- Focused on **deduplication pipelines**, **anomaly detection**, and **data enrichment workflows**
-- Fluent in Spanish and English, conversational Portuguese
+- Senior Data Specialist at **Moody's**
+- Industrial and Computer Engineering formation
+- Spanish, English and Portuguese
 - Passionate about open source, GNU/Linux, and practical AI
 
 ## Skills & Technologies
@@ -22,33 +21,8 @@ I build automation-first data solutions that improve trust, accuracy, and decisi
 `SQL` `Python` `Bash` `PySpark` `Power Query` `DAX`
 
 ### Platforms & Tools
-`Databricks` `AWS` `Power BI` `SAP` `GNU/Linux` `Git`
-
-### Core Strengths
-- Data Quality Engineering
-- Pipeline Automation
-- Entity Resolution & Deduplication
-- Analytics for Business Decision-Making
+`Databricks` `AWS` `SAP` `GNU/Linux` `Git` `Power BI` 
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,bash,linux,git,aws,postgres&perline=6" alt="Skills" />
 </p>
-
-## Experience Snapshot
-- **Moody's Corporation** - Senior Data Specialist  
-  Programmatic data quality remediation at global scale using SQL, PySpark, Databricks, and AWS.
-
-- **Haleon** - Planning & Forecasting Intern  
-  P&L, headcount, and forecasting support for Canada market using SAP and reporting tools.
-
-- **Philip Morris International** - Data Analysis Intern (INKOMPASS)  
-  Drove LOGD reduction and inventory accuracy improvements through analytics and process redesign.
-
-## Projects
-Project highlights and full portfolio:  
-**https://iikovu.github.io/DHSite/projects.html**
-
-## Connect
-- Portfolio: https://iikovu.github.io/DHSite/
-- LinkedIn: https://www.linkedin.com/in/dha7
-- Email: danihida28@proton.me
