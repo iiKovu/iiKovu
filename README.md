@@ -7,6 +7,10 @@
   <a href="mailto:danihida28@proton.me"><img src="https://img.shields.io/badge/Email-Proton-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<p align="center">
+  <img src="./5.gif" width="66%" alt="Banner gif" />
+</p>
+
 ## About
 - Senior Data Specialist at **Moody's**
 - Industrial and Computer Engineering formation
@@ -16,11 +20,4 @@
 ## Skills
 <p>
   <img src="https://skillicons.dev/icons?i=git,python,bash,linux,aws,postgres,mongodb,postman,terraform,pytorch,md,r,lua,docker&perline=7" alt="Skills" />
-</p>
-
-## Highlights
-<p align="center">
-  <img src="./6.gif" width="32%" alt="Highlight gif 6" />
-  <img src="./5.gif" width="32%" alt="Highlight gif 5" />
-  <img src="./3.gif" width="32%" alt="Highlight gif 3" />
 </p>
