@@ -8,21 +8,11 @@
 </p>
 
 ## About
-I build automation-first data solutions that improve trust, accuracy, and decision speed.
-
 - Senior Data Specialist at **Moody's**
 - Industrial and Computer Engineering formation
 - Spanish, English and Portuguese
 - Passionate about open source, GNU/Linux, and practical AI
 
-## Skills & Technologies
-
-### Programming & Data
-`SQL` `Python` `Bash` `PySpark` `Power Query` `DAX`
-
-### Platforms & Tools
-`Databricks` `AWS` `SAP` `GNU/Linux` `Git` `Power BI` 
-
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,aws,postgres&perline=6" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,aws,gcp,postgres,mysql,mongodb,docker,kubernetes,terraform,anaconda,sklearn,tensorflow,pytorch,pandas,numpy,opencv,selenium,postman,powershell,regex,vscode,md,latex,ubuntu&perline=7" alt="Skills" />
 </p>
