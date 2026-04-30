@@ -2,7 +2,7 @@
   <img src="./5.gif" width="66%" alt="Banner gif" />
 </p>
 
-<h3 align="center"><strong>Senior Data Specialist | Data Quality Engineering | Automation at Scale</strong></h3>
+<h2 align="center"><strong>Senior Data Specialist | Data Quality Engineering | Automation at Scale</strong></h2>
 
 <p align="center">
   <a href="https://iikovu.github.io/DHSite/"><img src="https://img.shields.io/badge/Portfolio-DHSite-e94560?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
