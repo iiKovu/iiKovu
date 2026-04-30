@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./5.gif" width="66%" alt="Banner gif" />
+  <img src="./5.gif" width="45%" alt="Banner gif" />
 </p>
 
 <h2 align="center"><strong>Senior Data Specialist | Data Quality Engineering | Automation at Scale</strong></h2>
