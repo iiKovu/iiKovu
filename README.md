@@ -13,6 +13,7 @@
 - Spanish, English and Portuguese
 - Passionate about open source, GNU/Linux, and practical AI
 
+## Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,aws,gcp,postgres,mysql,mongodb,docker,kubernetes,terraform,anaconda,sklearn,tensorflow,pytorch,pandas,numpy,opencv,selenium,postman,powershell,regex,vscode,md,latex,ubuntu&perline=7" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,aws,postgres,mysql,mongodb,docker,terraform,pytorch,pandas,numpy,postman,regex,md&perline=7" alt="Skills" />
 </p>
