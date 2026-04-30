@@ -15,5 +15,5 @@
 
 ## Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=git,python,bash,linux,aws,postgres,mongodb,docker,terraform,pytorch,regex,md,postman,r,lua&perline=7" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=git,python,bash,linux,aws,postgres,mongodb,docker,terraform,pytorch,md,r,lua,postman&perline=7" alt="Skills" />
 </p>
