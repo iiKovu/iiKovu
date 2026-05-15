@@ -12,7 +12,7 @@
 
 ## About
 - Senior Data Specialist at **Moody's**
-- Industrial and Computer Engineering formation
+- Industrial and Computer Engineering
 - Spanish, English and Portuguese
 - Passionate about open source, GNU/Linux, and practical AI
 
